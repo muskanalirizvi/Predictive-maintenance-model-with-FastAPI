@@ -1,0 +1,1 @@
+{"threshold": 0.8, "features": ["type", "air_temp", "process_temp", "rpm", "torque", "tool_wear", "temp_diff", "power", "strain"]}
